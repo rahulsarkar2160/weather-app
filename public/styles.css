@@ -28,7 +28,7 @@ body {
 /* Heading */
 .container h1 {
     font-size: 2rem;
-    color: #333;
+    color: #653896;
     margin-bottom: 20px;
 }
 
@@ -55,7 +55,7 @@ form button {
     border: none;
     border-radius: 8px;
     cursor: pointer;
-    margin-left: 10px;
+    margin: 10px;
     transition: background-color 0.3s;
 }
 
