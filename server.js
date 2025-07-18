@@ -16,6 +16,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // Routes
 app.get("/", (req, res) => {
+    console.log("✅ GET / route hit");
     res.render("index", { weather: null, error: null });
 });
 
