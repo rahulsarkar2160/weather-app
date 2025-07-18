@@ -57,7 +57,7 @@ app.post("/weather", async (req, res) => {
                 icon = "🌡️";
         }
 
-        const weatherText = `${icon} It is ${weatherData.main.temp}°C in ${weatherData.name} (${weatherData.weather[0].description})`;
+        const weatherText = `It is ${weatherData.main.temp}°C in ${weatherData.name} (${weatherData.weather[0].description}\n${icon})`;
 
 
         res.render("index", { weather: weatherText, error: null });
