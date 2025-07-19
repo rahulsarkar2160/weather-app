@@ -72,6 +72,7 @@ weather-app/
    ```
    WEATHER_API_KEY=your_api_key_here
    ```
+   > Note: you will an API key from OpenWeatherMap.
 5. Set Start Command to:
    ```
    node server.js
