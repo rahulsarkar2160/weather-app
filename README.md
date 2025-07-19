@@ -3,6 +3,7 @@
 A simple weather app built using Node.js, Express, and EJS. Enter a city name to get real-time weather information using the OpenWeatherMap API.
 
 🔗 **Live Demo:** [https://weather-app-svii.onrender.com](https://weather-app-svii.onrender.com)
+>Note: the app can take a few seconds to wake up.
 
 ## 🚀 Features
 
@@ -62,13 +63,13 @@ weather-app/
 
 ## 🌍 Live Demo
 
-🔗 [Deployed on Render](https://your-render-link-here.com)  
+🔗 [Deployed on Render](https://weather-app-svii.onrender.com)  
 > Note: The free tier may sleep after inactivity — the app can take a few seconds to wake up.
 
 ## 🚢 Deploying to Render
 
 1. Push code to GitHub
-2. Create a new Web Service on [Render](https://weather-app-svii.onrender.com)
+2. Create a new Web Service on [Render](https://render.com)
 3. Connect the GitHub repo
 4. Set the environment variable:
    ```
