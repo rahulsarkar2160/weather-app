@@ -2,7 +2,7 @@
 
 A simple weather app built using Node.js, Express, and EJS. Enter a city name to get real-time weather information using the OpenWeatherMap API.
 
-🔗 **Live Demo:** [https://your-render-link.onrender.com](https://your-render-link.onrender.com)
+🔗 **Live Demo:** [https://weather-app-svii.onrender.com](https://weather-app-svii.onrender.com)
 
 ## 🚀 Features
 
